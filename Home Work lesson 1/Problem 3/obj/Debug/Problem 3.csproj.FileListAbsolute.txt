@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Problem 3\bin\Debug\Problem 3.exe.config
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Problem 3\bin\Debug\Problem 3.exe
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Problem 3\bin\Debug\Problem 3.pdb
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Problem 3\obj\Debug\Problem 3.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Problem 3\obj\Debug\Problem 3.exe
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Problem 3\obj\Debug\Problem 3.pdb

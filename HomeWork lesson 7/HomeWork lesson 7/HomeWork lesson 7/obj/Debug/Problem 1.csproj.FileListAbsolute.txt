@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 7\HomeWork lesson 7\HomeWork lesson 7\bin\Debug\HomeWork lesson 7.exe.config
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 7\HomeWork lesson 7\HomeWork lesson 7\bin\Debug\HomeWork lesson 7.exe
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 7\HomeWork lesson 7\HomeWork lesson 7\bin\Debug\HomeWork lesson 7.pdb
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 7\HomeWork lesson 7\HomeWork lesson 7\obj\Debug\Problem 1.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 7\HomeWork lesson 7\HomeWork lesson 7\obj\Debug\HomeWork lesson 7.exe
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 7\HomeWork lesson 7\HomeWork lesson 7\obj\Debug\HomeWork lesson 7.pdb

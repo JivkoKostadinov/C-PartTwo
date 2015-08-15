@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 3\HomeWork lesson 3\Problem 13\bin\Debug\Problem 13.exe.config
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 3\HomeWork lesson 3\Problem 13\bin\Debug\Problem 13.exe
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 3\HomeWork lesson 3\Problem 13\bin\Debug\Problem 13.pdb
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 3\HomeWork lesson 3\Problem 13\obj\Debug\Problem 13.exe
+D:\Programing\Start January 2015\part2 c#\HomeWork lesson 3\HomeWork lesson 3\Problem 13\obj\Debug\Problem 13.pdb

@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal K sum\bin\Debug\Maximal K sum.exe.config
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal K sum\bin\Debug\Maximal K sum.exe
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal K sum\bin\Debug\Maximal K sum.pdb
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal K sum\obj\Debug\Maximal K sum.exe
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal K sum\obj\Debug\Maximal K sum.pdb

@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Prime numbers\bin\Debug\Prime numbers.exe.config
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Prime numbers\bin\Debug\Prime numbers.exe
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Prime numbers\bin\Debug\Prime numbers.pdb
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Prime numbers\obj\Debug\Prime numbers.exe
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Prime numbers\obj\Debug\Prime numbers.pdb

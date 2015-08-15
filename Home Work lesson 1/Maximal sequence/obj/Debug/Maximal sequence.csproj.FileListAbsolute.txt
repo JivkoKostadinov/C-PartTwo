@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal sequence\bin\Debug\Maximal sequence.exe.config
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal sequence\obj\Debug\Maximal sequence.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal sequence\bin\Debug\Maximal sequence.exe
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal sequence\bin\Debug\Maximal sequence.pdb
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal sequence\obj\Debug\Maximal sequence.exe
+D:\Programing\Start January 2015\part2 c#\Home Work lesson 1\Maximal sequence\obj\Debug\Maximal sequence.pdb
